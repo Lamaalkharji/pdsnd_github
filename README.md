@@ -7,7 +7,7 @@
 Programming for Data Science
 
 ### Description
-Programming for Data Science
+Nano Programming for Data Science - Project 3
 
 ### Files used
 Bikeshare.py
